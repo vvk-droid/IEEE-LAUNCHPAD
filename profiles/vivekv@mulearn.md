@@ -12,23 +12,20 @@ Github : https://github.com/vvk-droid
 
 ### My Projects
 
+
+
+
 | Name                | Description                                                               | Hosted Link                              | Repo Link                                                      |
 |---------------------|---------------------------------------------------------------------------|------------------------------------------|----------------------------------------------------------------|
-|**Personal Portfolio**|Summarized roles and responsibilities from previous positions, emphasizing 
-                        acquired skills relevant to the desired role.
-                        This portfolio serves as a professional platform to highlight my skills  | [Hosted Link 1](https://vvk-droid.github.io/vivek-portfolio125/)| [Repo Link 1](https://github.com/vvk-droid/vivek-portfolio125.git)             |
-=========================================================================================================================================================================================================================================
-| **SoilQMS**  |        Developed a system capable of real-time monitoring of soil quality using va-
-                        rious sensors.
-                        Enables continuous data collection and analysis to ensure optimal conditions
-                        for crop growth.
-                        Implemented a feature to provide crop-specific recommendations based on sensor
-                        readings. Utilizes data from sensors to suggest actions such as adjusting 
-                        watering schedules or applying fertilizers, enhancing crop yield and health.
-                        Designed functionality for users to manually input nutrient values such as 
-                        Nitrogen, phosphorus, potassium (N, P, K) into the system.By comparing this 
-                        values it gives required amount of nutrients for the optimal growth of crops | [Hosted Link 2](https://github.com/vvk-droid/SoilQMS.git)| [Repo Link 2](https://github.com/vvk-droid/SoilQMS.git)             |
-=============================================================================================================================================================================================================================
+| **Personal Portfolio**  | Summarized roles and responsibilities from previous positions, emphasizing acquired skills relevant to the desired role.This portfolio serves as a professional platform to highlight my skills | [Hosted Link 1](https://vvk-droid.github.io/vivek-portfolio125/) | [Repo Link 1](https://github.com/vvk-droid/vivek-portfolio125.git) |
+                      
+
+| Name                | Description                                                               | Hosted Link                              | Repo Link                                                      |
+|---------------------|---------------------------------------------------------------------------|------------------------------------------|----------------------------------------------------------------|
+|**SoilQMS**| Developed a system capable of real-time monitoring of soil quality using various sensors.Enables continuous data collection and analysis to ensure optimal conditions| [Hosted Link 2](https://github.com/vvk-droid/SoilQMS.git) | [Repo Link 2](https://github.com/vvk-droid/SoilQMS.git) | 
+                        
+                        
+                          
 
 #### Career Plan:
 
